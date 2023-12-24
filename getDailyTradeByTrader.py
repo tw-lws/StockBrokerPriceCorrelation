@@ -3,7 +3,7 @@ from data_fetching.fetch_data import fetch_taiwan_stock_trading_report_by_trader
 import datetime
 
 def main():
-    start_date = (datetime.date.today() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
+    start_date = (datetime.date.today() - datetime.timedelta(days=366)).strftime("%Y-%m-%d")
     end_date = datetime.date.today().strftime("%Y-%m-%d")
     trader_id = "9217" # 凱基-松山
     print(trader_id, start_date, end_date)
