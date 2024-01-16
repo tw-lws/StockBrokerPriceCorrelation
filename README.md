@@ -12,10 +12,11 @@
 
 ***若是不想手動下載資料，使用我們提供的資料，可安裝完需要的套件後直接執行`BrokerAndPriceCorrelation.ipynb`檔案***
 
-# 目錄- [StockBrokerPriceCorrelation Repo介紹](#stockbrokerpricecorrelation-repo介紹)
+# 目錄 
+
 - [StockBrokerPriceCorrelation Repo介紹](#stockbrokerpricecorrelation-repo介紹)
 - [研究動機](#研究動機)
-- [目錄- StockBrokerPriceCorrelation Repo介紹](#目錄--stockbrokerpricecorrelation-repo介紹)
+- [目錄](#目錄)
   - [特點](#特點)
   - [專案結構](#專案結構)
   - [安裝與使用](#安裝與使用)
@@ -24,6 +25,7 @@
     - [取得資料](#取得資料)
     - [直接從雲端硬碟下載現有資料料並進行資料清理以及統計運算](#直接從雲端硬碟下載現有資料料並進行資料清理以及統計運算)
   - [About Authors](#about-authors)
+
 
 
 
@@ -96,4 +98,5 @@ python BrokerAndPriceCorrelation.py
 
 ## About Authors
 [Steven Liu](https://github.com/tw-lws) and [Yuehua-Liu](https://github.com/Yuehua-Liu)
+
 指導教授: [Huei-Wen Teng](https://hackmd.io/@hwteng/HyKOPoA6d)
