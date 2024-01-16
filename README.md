@@ -98,7 +98,7 @@
 4. 使用爬蟲抓取資料
 
 
-執行 `main.py` 來開始收集和分析數據：
+執行 `main.py` 來開始從Finmind下載數據，並將資料儲存在data內：
 ```bash
 python main.py
 ```
